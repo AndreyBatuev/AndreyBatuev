@@ -27,12 +27,14 @@
    
 <p align="center">
 Telegram:<br>
-<a href="https://t.me/AndreyScarlet">
-   <img top="0" width=200 height="auto" src="img/tg.png" margin-left="10px">
+<a href="https://t.me/AndreyScarlet" >
+   <img top="0" width=200 height="auto" src="img/tg.png" margin-left="10px"><br>
+   @AndreyScarlet<br>
 </p>
    
 <p align='center'>
-   Почта:<br> <a href='mailto:batushkatas4it@yandex.ru'><img top="0" width=200 height="auto" src="img/email.png" margin-left="10px"></a>
+   Почта:<br> <a href='mailto:batushkatas4it@yandex.ru'><img top="0" width=120 height="auto" src="img/email.png" margin-left="10px"></a><br>
+   batushkatas4it@yandex.ru<br>
 </p>
 
 
