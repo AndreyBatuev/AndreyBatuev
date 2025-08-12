@@ -16,7 +16,7 @@
 
 ### [--> Дипломная работа на базе Windows forms с использованием SQL](https://github.com/AndreyBatuev/myGraduateWork)
 
-### Hard-skills 🎓  
+### Hard-skills 
 ####  Основные  
 - `C++`, `Python`, `SQL`, `Git`  
 ####  Дополнительные  
