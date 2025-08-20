@@ -20,7 +20,7 @@
 ####  Основные  
 - `C++`, `Python`, `SQL`, `Git`  
 ####  Дополнительные  
-- `STL`, `PyAutoGUI`, `Pillow`, `GTK+`, `Windows Forms`  
+- `STL`, `PyAutoGUI`, `Pillow`, `GTK+`, `Windows Forms`  `Linux`  
 ####  Языки  
 - `English (B1)`   
 
